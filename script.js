@@ -1,4 +1,5 @@
-const WORKER_URL = "loreal-chatbot.rcuellar138.workers.dev"; 
+const WORKER_URL = "https://loreal-chatbot.rcuellar138.workers.dev/"; 
+
 const STORAGE_KEY = "loreal-routine-selected-products";
 
 const categoryFilter = document.getElementById("categoryFilter");
